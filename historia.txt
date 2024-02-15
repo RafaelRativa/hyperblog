@@ -8,11 +8,8 @@ Experimento 1
 
 Experimento 2
 
-<<<<<<< HEAD
 Master 1
 
 Master 2
 
-=======
->>>>>>> 8e087b5 (retiramos Master 1 de experimento)
 Mañana nos enfocaremos en su vida laboral
